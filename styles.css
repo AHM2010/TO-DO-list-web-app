@@ -13,6 +13,7 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 20px;
   border-radius: 8px;
+  margin: 0 20px;
 }
 
 h1 {
@@ -93,3 +94,4 @@ h1 {
 .completed-task-txt {
   text-decoration: line-through;
 }
+
